@@ -20,9 +20,9 @@ To set up this application, follow these instructions:
 * DB_USER=[your username]
 * DB_PW=[your password]
 
-3. Once you have finished inputting your information, open the command line and run the code 'npm install'. 
-4. Once the installation is complete, go into MySQL and run 'source db/schema.sql'.
-5. You can then seed the database by running 'npm run seed'. 
+3. Once you have finished inputting your information, open the command line and run the code "npm install". 
+4. Once the installation is complete, go into MySQL and run "source db/schema.sql".
+5. You can then seed the database by running "npm run seed". 
 5. To start the application, type "node server.js" in the root of the directory of the project. 
 
 
