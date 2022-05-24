@@ -33,8 +33,6 @@ Click this video to view a demonstration of this application.
 [Video Demo](https://user-images.githubusercontent.com/95240889/167336489-7a3e882d-21fb-484f-bcaa-8e0a043e85c3.mp4)
 
 ## Technology
-* HTML5
-* CSS 
 * JS
 * MySQL
 * Sequelize
